@@ -10,3 +10,11 @@ python3 -m pip install --user mplhep
 python3 -m pip install --user fpdf
 python3 -m pip install --user openpyxl
 ```
+
+# QC2
+
+# QC3&4
+
+```bash
+python3 QC34_report.py -mt [module_type] -mn [module_number] -d3 [qc3_date (YYYY/MM/DD)] -d4 [qc4_date (YYYY/MM/DD)]
+```
